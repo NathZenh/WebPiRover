@@ -6,12 +6,15 @@
 Das Rasperry Pi Mini Car übermittelt Livebilder der Kamera an dessen Webseite worüber man das Fahrzeug mit WASD steueren kann.
 
 ## Visualisierung
-![Bildschirmfoto 2023-12-06 um 16 12 34](https://github.com/NathZenh/WebPiRover/assets/46894591/02a4f395-c886-4206-9343-beaa665c8bb4)
+![Raspi MiniCar](https://github.com/NathZenh/WebPiRover/assets/46894591/d74a46c6-a0a0-4256-8c96-27ed9bc5c719)
+
+
+![WebView](https://github.com/NathZenh/WebPiRover/assets/46894591/02a4f395-c886-4206-9343-beaa665c8bb4)
 
 
 <details>
   <summary>Video</summary>
-  
+  coming soon
 </details>
 
 ## Material
@@ -25,7 +28,7 @@ Damit dieses Programm angewendet werden kann gebrauchen Sie:
 - Lade die Dateien **app.py** auf deinen Raspberry Pi (Raspi).
 - Passe die Variablen an.
 
-![Code in](https://github.com/NathZenh/WebPiRover/assets/46894591/95af7f05-d5a8-41b5-94c0-4cad5eaa07e9)
+![CodeVariables](https://github.com/NathZenh/WebPiRover/assets/46894591/95af7f05-d5a8-41b5-94c0-4cad5eaa07e9)
 
 
 - Verbinde deinen Raspberry Pi mit dem Motorcontroller. Du musste es mir nicht gleich machen. !Passe dann aber die Variablen richtig an!
@@ -61,7 +64,7 @@ Besonders mühsam war das zurückliefern der Input von der Webseite in das Pytho
 Im HTML Programm ist ein grosser Codeblock für Javascript. Dort werden die Keyeingaben an die versteckten Inputs geschickt um die Daten per Post dann zurück ans Pythonprogramm zu schicken.
 Folglich können Sie den HTML-Code sauber lesen:
 
-![Code in (1)](https://github.com/NathZenh/WebPiRover/assets/46894591/f18ec0c7-18fa-466f-91ff-598cb14d0bdb)
+![CodeHTML](https://github.com/NathZenh/WebPiRover/assets/46894591/f18ec0c7-18fa-466f-91ff-598cb14d0bdb)
 
 
 ## Lizenz
