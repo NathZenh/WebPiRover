@@ -1,4 +1,4 @@
-![WebPi](https://github.com/NathZenh/WebPiRover/assets/46894591/07e1f6d5-aca2-45ab-937c-b88e44dba939)
+![WebPi](https://github.com/NathZenh/WebPiRover/assets/46894591/ec2059f2-055a-411b-95ba-d33236856c87)
 
 # WebPiRover
 
