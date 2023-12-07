@@ -28,7 +28,7 @@ Damit dieses Programm angewendet werden kann gebrauchen Sie:
 - Lade die Dateien **app.py** auf deinen Raspberry Pi (Raspi).
 - Passe die Variablen an.
 
-![CodeVariables](https://github.com/NathZenh/WebPiRover/assets/46894591/95af7f05-d5a8-41b5-94c0-4cad5eaa07e9)
+![CodeVariables)](https://github.com/NathZenh/WebPiRover/assets/46894591/e43368c2-1342-4bc6-8d42-d43cdc4ba74f)
 
 
 - Verbinde deinen Raspberry Pi mit dem Motorcontroller. Du musste es mir nicht gleich machen. !Passe dann aber die Variablen richtig an!
